@@ -5,11 +5,12 @@ name = "pypi"
 
 [packages]
 numpy = "*"
-pandas = "*"
+networkx = "*"
 matplotlib = "*"
-scikit-learn = "*"
+pyspark = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.12"
