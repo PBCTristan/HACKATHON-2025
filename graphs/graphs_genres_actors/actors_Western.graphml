@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Clint Eastwood">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Eli Wallach">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Lee Van Cleef">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Aldo Giuffrè">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Henry Fonda">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Charles Bronson">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Claudia Cardinale">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jason Robards">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jamie Foxx">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Christoph Waltz">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Leonardo DiCaprio">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Kerry Washington">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Gian Maria Volontè">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Mara Krupp">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Gene Hackman">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Morgan Freeman">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Richard Harris">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Humphrey Bogart">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Walter Huston">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Tim Holt">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Bruce Bennett">
+      <data key="d0">actor</data>
+    </node>
+    <node id="James Stewart">
+      <data key="d0">actor</data>
+    </node>
+    <node id="John Wayne">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Vera Miles">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Lee Marvin">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Kevin Costner">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Mary McDonnell">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Graham Greene">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Rodney A. Grant">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Marianne Koch">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Wolfgang Lukschy">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Dean Martin">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ricky Nelson">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Angie Dickinson">
+      <data key="d0">actor</data>
+    </node>
+    <node id="William Holden">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ernest Borgnine">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Robert Ryan">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Edmond O'Brien">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jeffrey Hunter">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ward Bond">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Gary Cooper">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Grace Kelly">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Thomas Mitchell">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Lloyd Bridges">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Sondra Locke">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Chief Dan George">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Bill McKinney">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Claire Trevor">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Andy Devine">
+      <data key="d0">actor</data>
+    </node>
+    <node id="John Carradine">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Cleavon Little">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Gene Wilder">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Slim Pickens">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Harvey Korman">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Yul Brynner">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Steve McQueen">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Joel Coen">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jeff Bridges">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Matt Damon">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Hailee Steinfeld">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Rod Steiger">
+      <data key="d0">actor</data>
+    </node>
+    <node id="James Coburn">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Romolo Valli">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Maria Monti">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Elizabeth Taylor">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Rock Hudson">
+      <data key="d0">actor</data>
+    </node>
+    <node id="James Dean">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Carroll Baker">
+      <data key="d0">actor</data>
+    </node>
+    <edge source="Clint Eastwood" target="Eli Wallach" />
+    <edge source="Clint Eastwood" target="Lee Van Cleef" />
+    <edge source="Clint Eastwood" target="Aldo Giuffrè" />
+    <edge source="Clint Eastwood" target="Gian Maria Volontè" />
+    <edge source="Clint Eastwood" target="Mara Krupp" />
+    <edge source="Clint Eastwood" target="Gene Hackman" />
+    <edge source="Clint Eastwood" target="Morgan Freeman" />
+    <edge source="Clint Eastwood" target="Richard Harris" />
+    <edge source="Clint Eastwood" target="Marianne Koch" />
+    <edge source="Clint Eastwood" target="Wolfgang Lukschy" />
+    <edge source="Clint Eastwood" target="Sondra Locke" />
+    <edge source="Clint Eastwood" target="Chief Dan George" />
+    <edge source="Clint Eastwood" target="Bill McKinney" />
+    <edge source="Eli Wallach" target="Lee Van Cleef" />
+    <edge source="Eli Wallach" target="Aldo Giuffrè" />
+    <edge source="Eli Wallach" target="Yul Brynner" />
+    <edge source="Eli Wallach" target="Steve McQueen" />
+    <edge source="Eli Wallach" target="Charles Bronson" />
+    <edge source="Lee Van Cleef" target="Aldo Giuffrè" />
+    <edge source="Lee Van Cleef" target="Gian Maria Volontè" />
+    <edge source="Lee Van Cleef" target="Mara Krupp" />
+    <edge source="Henry Fonda" target="Charles Bronson" />
+    <edge source="Henry Fonda" target="Claudia Cardinale" />
+    <edge source="Henry Fonda" target="Jason Robards" />
+    <edge source="Charles Bronson" target="Claudia Cardinale" />
+    <edge source="Charles Bronson" target="Jason Robards" />
+    <edge source="Charles Bronson" target="Yul Brynner" />
+    <edge source="Charles Bronson" target="Steve McQueen" />
+    <edge source="Claudia Cardinale" target="Jason Robards" />
+    <edge source="Jamie Foxx" target="Christoph Waltz" />
+    <edge source="Jamie Foxx" target="Leonardo DiCaprio" />
+    <edge source="Jamie Foxx" target="Kerry Washington" />
+    <edge source="Christoph Waltz" target="Leonardo DiCaprio" />
+    <edge source="Christoph Waltz" target="Kerry Washington" />
+    <edge source="Leonardo DiCaprio" target="Kerry Washington" />
+    <edge source="Gian Maria Volontè" target="Mara Krupp" />
+    <edge source="Gian Maria Volontè" target="Marianne Koch" />
+    <edge source="Gian Maria Volontè" target="Wolfgang Lukschy" />
+    <edge source="Gene Hackman" target="Morgan Freeman" />
+    <edge source="Gene Hackman" target="Richard Harris" />
+    <edge source="Morgan Freeman" target="Richard Harris" />
+    <edge source="Humphrey Bogart" target="Walter Huston" />
+    <edge source="Humphrey Bogart" target="Tim Holt" />
+    <edge source="Humphrey Bogart" target="Bruce Bennett" />
+    <edge source="Walter Huston" target="Tim Holt" />
+    <edge source="Walter Huston" target="Bruce Bennett" />
+    <edge source="Tim Holt" target="Bruce Bennett" />
+    <edge source="James Stewart" target="John Wayne" />
+    <edge source="James Stewart" target="Vera Miles" />
+    <edge source="James Stewart" target="Lee Marvin" />
+    <edge source="John Wayne" target="Vera Miles" />
+    <edge source="John Wayne" target="Lee Marvin" />
+    <edge source="John Wayne" target="Dean Martin" />
+    <edge source="John Wayne" target="Ricky Nelson" />
+    <edge source="John Wayne" target="Angie Dickinson" />
+    <edge source="John Wayne" target="Jeffrey Hunter" />
+    <edge source="John Wayne" target="Ward Bond" />
+    <edge source="John Wayne" target="Claire Trevor" />
+    <edge source="John Wayne" target="Andy Devine" />
+    <edge source="John Wayne" target="John Carradine" />
+    <edge source="Vera Miles" target="Lee Marvin" />
+    <edge source="Vera Miles" target="Jeffrey Hunter" />
+    <edge source="Vera Miles" target="Ward Bond" />
+    <edge source="Kevin Costner" target="Mary McDonnell" />
+    <edge source="Kevin Costner" target="Graham Greene" />
+    <edge source="Kevin Costner" target="Rodney A. Grant" />
+    <edge source="Mary McDonnell" target="Graham Greene" />
+    <edge source="Mary McDonnell" target="Rodney A. Grant" />
+    <edge source="Graham Greene" target="Rodney A. Grant" />
+    <edge source="Marianne Koch" target="Wolfgang Lukschy" />
+    <edge source="Dean Martin" target="Ricky Nelson" />
+    <edge source="Dean Martin" target="Angie Dickinson" />
+    <edge source="Ricky Nelson" target="Angie Dickinson" />
+    <edge source="William Holden" target="Ernest Borgnine" />
+    <edge source="William Holden" target="Robert Ryan" />
+    <edge source="William Holden" target="Edmond O'Brien" />
+    <edge source="Ernest Borgnine" target="Robert Ryan" />
+    <edge source="Ernest Borgnine" target="Edmond O'Brien" />
+    <edge source="Robert Ryan" target="Edmond O'Brien" />
+    <edge source="Jeffrey Hunter" target="Ward Bond" />
+    <edge source="Gary Cooper" target="Grace Kelly" />
+    <edge source="Gary Cooper" target="Thomas Mitchell" />
+    <edge source="Gary Cooper" target="Lloyd Bridges" />
+    <edge source="Grace Kelly" target="Thomas Mitchell" />
+    <edge source="Grace Kelly" target="Lloyd Bridges" />
+    <edge source="Thomas Mitchell" target="Lloyd Bridges" />
+    <edge source="Sondra Locke" target="Chief Dan George" />
+    <edge source="Sondra Locke" target="Bill McKinney" />
+    <edge source="Chief Dan George" target="Bill McKinney" />
+    <edge source="Claire Trevor" target="Andy Devine" />
+    <edge source="Claire Trevor" target="John Carradine" />
+    <edge source="Andy Devine" target="John Carradine" />
+    <edge source="Cleavon Little" target="Gene Wilder" />
+    <edge source="Cleavon Little" target="Slim Pickens" />
+    <edge source="Cleavon Little" target="Harvey Korman" />
+    <edge source="Gene Wilder" target="Slim Pickens" />
+    <edge source="Gene Wilder" target="Harvey Korman" />
+    <edge source="Slim Pickens" target="Harvey Korman" />
+    <edge source="Yul Brynner" target="Steve McQueen" />
+    <edge source="Joel Coen" target="Jeff Bridges" />
+    <edge source="Joel Coen" target="Matt Damon" />
+    <edge source="Joel Coen" target="Hailee Steinfeld" />
+    <edge source="Jeff Bridges" target="Matt Damon" />
+    <edge source="Jeff Bridges" target="Hailee Steinfeld" />
+    <edge source="Matt Damon" target="Hailee Steinfeld" />
+    <edge source="Rod Steiger" target="James Coburn" />
+    <edge source="Rod Steiger" target="Romolo Valli" />
+    <edge source="Rod Steiger" target="Maria Monti" />
+    <edge source="James Coburn" target="Romolo Valli" />
+    <edge source="James Coburn" target="Maria Monti" />
+    <edge source="Romolo Valli" target="Maria Monti" />
+    <edge source="Elizabeth Taylor" target="Rock Hudson" />
+    <edge source="Elizabeth Taylor" target="James Dean" />
+    <edge source="Elizabeth Taylor" target="Carroll Baker" />
+    <edge source="Rock Hudson" target="James Dean" />
+    <edge source="Rock Hudson" target="Carroll Baker" />
+    <edge source="James Dean" target="Carroll Baker" />
+  </graph>
+</graphml>

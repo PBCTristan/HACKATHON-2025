@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Mohammad Amir Naji">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Amir Farrokh Hashemian">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Bahare Seddiqi">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Nafise Jafar-Mohammadi">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Farhan Akhtar">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Sonam Kapoor">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Pawan Malhotra">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Art Malik">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Tom Hardy">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Nick Nolte">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Joel Edgerton">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jennifer Morrison">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Shah Rukh Khan">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Vidya Malvade">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Sagarika Ghatge">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Shilpa Shukla">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Robert De Niro">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Cathy Moriarty">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Joe Pesci">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Frank Vincent">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Hilary Swank">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Clint Eastwood">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Morgan Freeman">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jay Baruchel">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ethan Coen">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jeff Bridges">
+      <data key="d0">actor</data>
+    </node>
+    <node id="John Goodman">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Julianne Moore">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Sylvester Stallone">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Talia Shire">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Burt Young">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Carl Weathers">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Paul Newman">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jackie Gleason">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Piper Laurie">
+      <data key="d0">actor</data>
+    </node>
+    <node id="George C. Scott">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Mickey Rourke">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Marisa Tomei">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Evan Rachel Wood">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Mark Margolis">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Sushant Singh Rajput">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Kiara Advani">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Anupam Kher">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Disha Patani">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Mark Wahlberg">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Christian Bale">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Amy Adams">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Melissa Leo">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Anthony Hopkins">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Diane Ladd">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Iain Rea">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Tessa Mitchell">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Denzel Washington">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Will Patton">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Wood Harris">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ryan Hurst">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Amit Sadh">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Rajkummar Rao">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Amrita Puri">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Michael B. Jordan">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Tessa Thompson">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Phylicia Rashad">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Brad Pitt">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Robin Wright">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jonah Hill">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Philip Seymour Hoffman">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Quinton Aaron">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Sandra Bullock">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Tim McGraw">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jae Head">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Vicellous Shannon">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Deborah Kara Unger">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Liev Schreiber">
+      <data key="d0">actor</data>
+    </node>
+    <edge source="Mohammad Amir Naji" target="Amir Farrokh Hashemian" />
+    <edge source="Mohammad Amir Naji" target="Bahare Seddiqi" />
+    <edge source="Mohammad Amir Naji" target="Nafise Jafar-Mohammadi" />
+    <edge source="Amir Farrokh Hashemian" target="Bahare Seddiqi" />
+    <edge source="Amir Farrokh Hashemian" target="Nafise Jafar-Mohammadi" />
+    <edge source="Bahare Seddiqi" target="Nafise Jafar-Mohammadi" />
+    <edge source="Farhan Akhtar" target="Sonam Kapoor" />
+    <edge source="Farhan Akhtar" target="Pawan Malhotra" />
+    <edge source="Farhan Akhtar" target="Art Malik" />
+    <edge source="Sonam Kapoor" target="Pawan Malhotra" />
+    <edge source="Sonam Kapoor" target="Art Malik" />
+    <edge source="Pawan Malhotra" target="Art Malik" />
+    <edge source="Tom Hardy" target="Nick Nolte" />
+    <edge source="Tom Hardy" target="Joel Edgerton" />
+    <edge source="Tom Hardy" target="Jennifer Morrison" />
+    <edge source="Nick Nolte" target="Joel Edgerton" />
+    <edge source="Nick Nolte" target="Jennifer Morrison" />
+    <edge source="Joel Edgerton" target="Jennifer Morrison" />
+    <edge source="Shah Rukh Khan" target="Vidya Malvade" />
+    <edge source="Shah Rukh Khan" target="Sagarika Ghatge" />
+    <edge source="Shah Rukh Khan" target="Shilpa Shukla" />
+    <edge source="Vidya Malvade" target="Sagarika Ghatge" />
+    <edge source="Vidya Malvade" target="Shilpa Shukla" />
+    <edge source="Sagarika Ghatge" target="Shilpa Shukla" />
+    <edge source="Robert De Niro" target="Cathy Moriarty" />
+    <edge source="Robert De Niro" target="Joe Pesci" />
+    <edge source="Robert De Niro" target="Frank Vincent" />
+    <edge source="Cathy Moriarty" target="Joe Pesci" />
+    <edge source="Cathy Moriarty" target="Frank Vincent" />
+    <edge source="Joe Pesci" target="Frank Vincent" />
+    <edge source="Hilary Swank" target="Clint Eastwood" />
+    <edge source="Hilary Swank" target="Morgan Freeman" />
+    <edge source="Hilary Swank" target="Jay Baruchel" />
+    <edge source="Clint Eastwood" target="Morgan Freeman" />
+    <edge source="Clint Eastwood" target="Jay Baruchel" />
+    <edge source="Morgan Freeman" target="Jay Baruchel" />
+    <edge source="Ethan Coen" target="Jeff Bridges" />
+    <edge source="Ethan Coen" target="John Goodman" />
+    <edge source="Ethan Coen" target="Julianne Moore" />
+    <edge source="Jeff Bridges" target="John Goodman" />
+    <edge source="Jeff Bridges" target="Julianne Moore" />
+    <edge source="John Goodman" target="Julianne Moore" />
+    <edge source="Sylvester Stallone" target="Talia Shire" />
+    <edge source="Sylvester Stallone" target="Burt Young" />
+    <edge source="Sylvester Stallone" target="Carl Weathers" />
+    <edge source="Sylvester Stallone" target="Michael B. Jordan" />
+    <edge source="Sylvester Stallone" target="Tessa Thompson" />
+    <edge source="Sylvester Stallone" target="Phylicia Rashad" />
+    <edge source="Talia Shire" target="Burt Young" />
+    <edge source="Talia Shire" target="Carl Weathers" />
+    <edge source="Burt Young" target="Carl Weathers" />
+    <edge source="Paul Newman" target="Jackie Gleason" />
+    <edge source="Paul Newman" target="Piper Laurie" />
+    <edge source="Paul Newman" target="George C. Scott" />
+    <edge source="Jackie Gleason" target="Piper Laurie" />
+    <edge source="Jackie Gleason" target="George C. Scott" />
+    <edge source="Piper Laurie" target="George C. Scott" />
+    <edge source="Mickey Rourke" target="Marisa Tomei" />
+    <edge source="Mickey Rourke" target="Evan Rachel Wood" />
+    <edge source="Mickey Rourke" target="Mark Margolis" />
+    <edge source="Marisa Tomei" target="Evan Rachel Wood" />
+    <edge source="Marisa Tomei" target="Mark Margolis" />
+    <edge source="Evan Rachel Wood" target="Mark Margolis" />
+    <edge source="Sushant Singh Rajput" target="Kiara Advani" />
+    <edge source="Sushant Singh Rajput" target="Anupam Kher" />
+    <edge source="Sushant Singh Rajput" target="Disha Patani" />
+    <edge source="Sushant Singh Rajput" target="Amit Sadh" />
+    <edge source="Sushant Singh Rajput" target="Rajkummar Rao" />
+    <edge source="Sushant Singh Rajput" target="Amrita Puri" />
+    <edge source="Kiara Advani" target="Anupam Kher" />
+    <edge source="Kiara Advani" target="Disha Patani" />
+    <edge source="Anupam Kher" target="Disha Patani" />
+    <edge source="Mark Wahlberg" target="Christian Bale" />
+    <edge source="Mark Wahlberg" target="Amy Adams" />
+    <edge source="Mark Wahlberg" target="Melissa Leo" />
+    <edge source="Christian Bale" target="Amy Adams" />
+    <edge source="Christian Bale" target="Melissa Leo" />
+    <edge source="Amy Adams" target="Melissa Leo" />
+    <edge source="Anthony Hopkins" target="Diane Ladd" />
+    <edge source="Anthony Hopkins" target="Iain Rea" />
+    <edge source="Anthony Hopkins" target="Tessa Mitchell" />
+    <edge source="Diane Ladd" target="Iain Rea" />
+    <edge source="Diane Ladd" target="Tessa Mitchell" />
+    <edge source="Iain Rea" target="Tessa Mitchell" />
+    <edge source="Denzel Washington" target="Will Patton" />
+    <edge source="Denzel Washington" target="Wood Harris" />
+    <edge source="Denzel Washington" target="Ryan Hurst" />
+    <edge source="Denzel Washington" target="Vicellous Shannon" />
+    <edge source="Denzel Washington" target="Deborah Kara Unger" />
+    <edge source="Denzel Washington" target="Liev Schreiber" />
+    <edge source="Will Patton" target="Wood Harris" />
+    <edge source="Will Patton" target="Ryan Hurst" />
+    <edge source="Wood Harris" target="Ryan Hurst" />
+    <edge source="Amit Sadh" target="Rajkummar Rao" />
+    <edge source="Amit Sadh" target="Amrita Puri" />
+    <edge source="Rajkummar Rao" target="Amrita Puri" />
+    <edge source="Michael B. Jordan" target="Tessa Thompson" />
+    <edge source="Michael B. Jordan" target="Phylicia Rashad" />
+    <edge source="Tessa Thompson" target="Phylicia Rashad" />
+    <edge source="Brad Pitt" target="Robin Wright" />
+    <edge source="Brad Pitt" target="Jonah Hill" />
+    <edge source="Brad Pitt" target="Philip Seymour Hoffman" />
+    <edge source="Robin Wright" target="Jonah Hill" />
+    <edge source="Robin Wright" target="Philip Seymour Hoffman" />
+    <edge source="Jonah Hill" target="Philip Seymour Hoffman" />
+    <edge source="Quinton Aaron" target="Sandra Bullock" />
+    <edge source="Quinton Aaron" target="Tim McGraw" />
+    <edge source="Quinton Aaron" target="Jae Head" />
+    <edge source="Sandra Bullock" target="Tim McGraw" />
+    <edge source="Sandra Bullock" target="Jae Head" />
+    <edge source="Tim McGraw" target="Jae Head" />
+    <edge source="Vicellous Shannon" target="Deborah Kara Unger" />
+    <edge source="Vicellous Shannon" target="Liev Schreiber" />
+    <edge source="Deborah Kara Unger" target="Liev Schreiber" />
+  </graph>
+</graphml>

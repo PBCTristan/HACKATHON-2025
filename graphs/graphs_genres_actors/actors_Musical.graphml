@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Rajesh Khanna">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Amitabh Bachchan">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Sumita Sanyal">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ramesh Deo">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Gene Kelly">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Donald O'Connor">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Debbie Reynolds">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Aamir Khan">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Anushka Sharma">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Sanjay Dutt">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Boman Irani">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Arshad Warsi">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Gracy Singh">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Sunil Dutt">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Raghuvir Yadav">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Rachel Shelley">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Preity Zinta">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Shah Rukh Khan">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Saif Ali Khan">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jaya Bachchan">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Björk">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Catherine Deneuve">
+      <data key="d0">actor</data>
+    </node>
+    <node id="David Morse">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Peter Stormare">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Topol">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Norma Crane">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Leonard Frey">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Molly Picon">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Roy Scheider">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jessica Lange">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ann Reinking">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Leland Palmer">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Edmund Goulding">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Groucho Marx">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Chico Marx">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Harpo Marx">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Rani Mukerji">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Kirron Kher">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Liza Minnelli">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Michael York">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Helmut Griem">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Joel Grey">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Gene Wilder">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jack Albertson">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Peter Ostrum">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Roy Kinnear">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Audrey Hepburn">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Rex Harrison">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Stanley Holloway">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Wilfrid Hyde-White">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Zeppo Marx">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ranbir Kapoor">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Nargis Fakhri">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Shammi Kapoor">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Kumud Mishra">
+      <data key="d0">actor</data>
+    </node>
+    <node id="John Lennon">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Paul McCartney">
+      <data key="d0">actor</data>
+    </node>
+    <node id="George Harrison">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ringo Starr">
+      <data key="d0">actor</data>
+    </node>
+    <edge source="Rajesh Khanna" target="Amitabh Bachchan" />
+    <edge source="Rajesh Khanna" target="Sumita Sanyal" />
+    <edge source="Rajesh Khanna" target="Ramesh Deo" />
+    <edge source="Amitabh Bachchan" target="Sumita Sanyal" />
+    <edge source="Amitabh Bachchan" target="Ramesh Deo" />
+    <edge source="Sumita Sanyal" target="Ramesh Deo" />
+    <edge source="Gene Kelly" target="Gene Kelly" />
+    <edge source="Gene Kelly" target="Donald O'Connor" />
+    <edge source="Gene Kelly" target="Debbie Reynolds" />
+    <edge source="Donald O'Connor" target="Debbie Reynolds" />
+    <edge source="Aamir Khan" target="Anushka Sharma" />
+    <edge source="Aamir Khan" target="Sanjay Dutt" />
+    <edge source="Aamir Khan" target="Boman Irani" />
+    <edge source="Aamir Khan" target="Raghuvir Yadav" />
+    <edge source="Aamir Khan" target="Gracy Singh" />
+    <edge source="Aamir Khan" target="Rachel Shelley" />
+    <edge source="Anushka Sharma" target="Sanjay Dutt" />
+    <edge source="Anushka Sharma" target="Boman Irani" />
+    <edge source="Sanjay Dutt" target="Boman Irani" />
+    <edge source="Sanjay Dutt" target="Arshad Warsi" />
+    <edge source="Sanjay Dutt" target="Gracy Singh" />
+    <edge source="Sanjay Dutt" target="Sunil Dutt" />
+    <edge source="Arshad Warsi" target="Gracy Singh" />
+    <edge source="Arshad Warsi" target="Sunil Dutt" />
+    <edge source="Gracy Singh" target="Sunil Dutt" />
+    <edge source="Gracy Singh" target="Raghuvir Yadav" />
+    <edge source="Gracy Singh" target="Rachel Shelley" />
+    <edge source="Raghuvir Yadav" target="Rachel Shelley" />
+    <edge source="Preity Zinta" target="Shah Rukh Khan" />
+    <edge source="Preity Zinta" target="Saif Ali Khan" />
+    <edge source="Preity Zinta" target="Jaya Bachchan" />
+    <edge source="Preity Zinta" target="Rani Mukerji" />
+    <edge source="Preity Zinta" target="Kirron Kher" />
+    <edge source="Shah Rukh Khan" target="Saif Ali Khan" />
+    <edge source="Shah Rukh Khan" target="Jaya Bachchan" />
+    <edge source="Shah Rukh Khan" target="Rani Mukerji" />
+    <edge source="Shah Rukh Khan" target="Kirron Kher" />
+    <edge source="Saif Ali Khan" target="Jaya Bachchan" />
+    <edge source="Björk" target="Catherine Deneuve" />
+    <edge source="Björk" target="David Morse" />
+    <edge source="Björk" target="Peter Stormare" />
+    <edge source="Catherine Deneuve" target="David Morse" />
+    <edge source="Catherine Deneuve" target="Peter Stormare" />
+    <edge source="David Morse" target="Peter Stormare" />
+    <edge source="Topol" target="Norma Crane" />
+    <edge source="Topol" target="Leonard Frey" />
+    <edge source="Topol" target="Molly Picon" />
+    <edge source="Norma Crane" target="Leonard Frey" />
+    <edge source="Norma Crane" target="Molly Picon" />
+    <edge source="Leonard Frey" target="Molly Picon" />
+    <edge source="Roy Scheider" target="Jessica Lange" />
+    <edge source="Roy Scheider" target="Ann Reinking" />
+    <edge source="Roy Scheider" target="Leland Palmer" />
+    <edge source="Jessica Lange" target="Ann Reinking" />
+    <edge source="Jessica Lange" target="Leland Palmer" />
+    <edge source="Ann Reinking" target="Leland Palmer" />
+    <edge source="Edmund Goulding" target="Groucho Marx" />
+    <edge source="Edmund Goulding" target="Chico Marx" />
+    <edge source="Edmund Goulding" target="Harpo Marx" />
+    <edge source="Groucho Marx" target="Chico Marx" />
+    <edge source="Groucho Marx" target="Harpo Marx" />
+    <edge source="Groucho Marx" target="Zeppo Marx" />
+    <edge source="Chico Marx" target="Harpo Marx" />
+    <edge source="Chico Marx" target="Zeppo Marx" />
+    <edge source="Harpo Marx" target="Zeppo Marx" />
+    <edge source="Rani Mukerji" target="Kirron Kher" />
+    <edge source="Liza Minnelli" target="Michael York" />
+    <edge source="Liza Minnelli" target="Helmut Griem" />
+    <edge source="Liza Minnelli" target="Joel Grey" />
+    <edge source="Michael York" target="Helmut Griem" />
+    <edge source="Michael York" target="Joel Grey" />
+    <edge source="Helmut Griem" target="Joel Grey" />
+    <edge source="Gene Wilder" target="Jack Albertson" />
+    <edge source="Gene Wilder" target="Peter Ostrum" />
+    <edge source="Gene Wilder" target="Roy Kinnear" />
+    <edge source="Jack Albertson" target="Peter Ostrum" />
+    <edge source="Jack Albertson" target="Roy Kinnear" />
+    <edge source="Peter Ostrum" target="Roy Kinnear" />
+    <edge source="Audrey Hepburn" target="Rex Harrison" />
+    <edge source="Audrey Hepburn" target="Stanley Holloway" />
+    <edge source="Audrey Hepburn" target="Wilfrid Hyde-White" />
+    <edge source="Rex Harrison" target="Stanley Holloway" />
+    <edge source="Rex Harrison" target="Wilfrid Hyde-White" />
+    <edge source="Stanley Holloway" target="Wilfrid Hyde-White" />
+    <edge source="Ranbir Kapoor" target="Nargis Fakhri" />
+    <edge source="Ranbir Kapoor" target="Shammi Kapoor" />
+    <edge source="Ranbir Kapoor" target="Kumud Mishra" />
+    <edge source="Nargis Fakhri" target="Shammi Kapoor" />
+    <edge source="Nargis Fakhri" target="Kumud Mishra" />
+    <edge source="Shammi Kapoor" target="Kumud Mishra" />
+    <edge source="John Lennon" target="Paul McCartney" />
+    <edge source="John Lennon" target="George Harrison" />
+    <edge source="John Lennon" target="Ringo Starr" />
+    <edge source="Paul McCartney" target="George Harrison" />
+    <edge source="Paul McCartney" target="Ringo Starr" />
+    <edge source="George Harrison" target="Ringo Starr" />
+  </graph>
+</graphml>

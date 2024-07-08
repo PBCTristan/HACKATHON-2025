@@ -1,0 +1,633 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Miles Teller">
+      <data key="d0">actor</data>
+    </node>
+    <node id="J.K. Simmons">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Melissa Benoist">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Paul Reiser">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Adrien Brody">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Thomas Kretschmann">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Frank Finlay">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Emilia Fox">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ayushmann Khurrana">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Tabu">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Radhika Apte">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Anil Dhawan">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ingrid Bergman">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Liv Ullmann">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Lena Nyman">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Halvar Björk">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Marilyn Monroe">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Tony Curtis">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jack Lemmon">
+      <data key="d0">actor</data>
+    </node>
+    <node id="George Raft">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Masahiro Motoki">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ryôko Hirosue">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Tsutomu Yamazaki">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Kazuko Yoshiyuki">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Tim Roth">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Pruitt Taylor Vince">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Mélanie Thierry">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Bill Nunn">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Leslie Cheung">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Fengyi Zhang">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Gong Li">
+      <data key="d0">actor</data>
+    </node>
+    <node id="You Ge">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Bob Geldof">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Christine Hargreaves">
+      <data key="d0">actor</data>
+    </node>
+    <node id="James Laurenson">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Eleanor David">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Emeric Pressburger">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Anton Walbrook">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Marius Goring">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Moira Shearer">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ryan Gosling">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Emma Stone">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Rosemarie DeWitt">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Vijay Varma">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Nakul Roshan Sahdev">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ranveer Singh">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Vijay Raaz">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Rami Malek">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Lucy Boynton">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Gwilym Lee">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ben Hardy">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ferdia Walsh-Peelo">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Aidan Gillen">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Maria Doyle Kennedy">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jack Reynor">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Gérard Jugnot">
+      <data key="d0">actor</data>
+    </node>
+    <node id="François Berléand">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jean-Baptiste Maunier">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Kad Merad">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Juliette Binoche">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Zbigniew Zamachowski">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Julie Delpy">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Benoît Régent">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Rob Reiner">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Michael McKean">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Christopher Guest">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Kimberly Stringer">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Roy Scheider">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jessica Lange">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ann Reinking">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Leland Palmer">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Edmund Goulding">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Groucho Marx">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Chico Marx">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Harpo Marx">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Riz Ahmed">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Olivia Cooke">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Paul Raci">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Lauren Ridloff">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Glen Hansard">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Markéta Irglová">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Hugh Walsh">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Gerard Hendrick">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Joaquin Phoenix">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Reese Witherspoon">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ginnifer Goodwin">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Robert Patrick">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Irène Jacob">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Wladyslaw Kowalski">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Halina Gryglaszewska">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Kalina Jedrusik">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Liza Minnelli">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Michael York">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Helmut Griem">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Joel Grey">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Veerle Baetens">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Johan Heldenbergh">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Nell Cattrysse">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Geert Van Rampelberg">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ranbir Kapoor">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Nargis Fakhri">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Shammi Kapoor">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Kumud Mishra">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Diane Kruger">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Benno Fürmann">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Guillaume Canet">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Natalie Dessay">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Sam Riley">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Samantha Morton">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Craig Parkinson">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Alexandra Maria Lara">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jamie Foxx">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Regina King">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Kerry Washington">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Clifton Powell">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jamie Bell">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Julie Walters">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jean Heywood">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jamie Draven">
+      <data key="d0">actor</data>
+    </node>
+    <node id="John Cameron Mitchell">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Miriam Shor">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Stephen Trask">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Theodore Liscinski">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Geoffrey Rush">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Armin Mueller-Stahl">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Justin Braine">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Sonia Todd">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Lady Gaga">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Bradley Cooper">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Sam Elliott">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Greg Grunberg">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Marion Cotillard">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Sylvie Testud">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Pascal Greggory">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Emmanuelle Seigner">
+      <data key="d0">actor</data>
+    </node>
+    <node id="John Lennon">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Paul McCartney">
+      <data key="d0">actor</data>
+    </node>
+    <node id="George Harrison">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ringo Starr">
+      <data key="d0">actor</data>
+    </node>
+    <edge source="Miles Teller" target="J.K. Simmons" />
+    <edge source="Miles Teller" target="Melissa Benoist" />
+    <edge source="Miles Teller" target="Paul Reiser" />
+    <edge source="J.K. Simmons" target="Melissa Benoist" />
+    <edge source="J.K. Simmons" target="Paul Reiser" />
+    <edge source="J.K. Simmons" target="Ryan Gosling" />
+    <edge source="J.K. Simmons" target="Emma Stone" />
+    <edge source="J.K. Simmons" target="Rosemarie DeWitt" />
+    <edge source="Melissa Benoist" target="Paul Reiser" />
+    <edge source="Adrien Brody" target="Thomas Kretschmann" />
+    <edge source="Adrien Brody" target="Frank Finlay" />
+    <edge source="Adrien Brody" target="Emilia Fox" />
+    <edge source="Thomas Kretschmann" target="Frank Finlay" />
+    <edge source="Thomas Kretschmann" target="Emilia Fox" />
+    <edge source="Frank Finlay" target="Emilia Fox" />
+    <edge source="Ayushmann Khurrana" target="Tabu" />
+    <edge source="Ayushmann Khurrana" target="Radhika Apte" />
+    <edge source="Ayushmann Khurrana" target="Anil Dhawan" />
+    <edge source="Tabu" target="Radhika Apte" />
+    <edge source="Tabu" target="Anil Dhawan" />
+    <edge source="Radhika Apte" target="Anil Dhawan" />
+    <edge source="Ingrid Bergman" target="Liv Ullmann" />
+    <edge source="Ingrid Bergman" target="Lena Nyman" />
+    <edge source="Ingrid Bergman" target="Halvar Björk" />
+    <edge source="Liv Ullmann" target="Lena Nyman" />
+    <edge source="Liv Ullmann" target="Halvar Björk" />
+    <edge source="Lena Nyman" target="Halvar Björk" />
+    <edge source="Marilyn Monroe" target="Tony Curtis" />
+    <edge source="Marilyn Monroe" target="Jack Lemmon" />
+    <edge source="Marilyn Monroe" target="George Raft" />
+    <edge source="Tony Curtis" target="Jack Lemmon" />
+    <edge source="Tony Curtis" target="George Raft" />
+    <edge source="Jack Lemmon" target="George Raft" />
+    <edge source="Masahiro Motoki" target="Ryôko Hirosue" />
+    <edge source="Masahiro Motoki" target="Tsutomu Yamazaki" />
+    <edge source="Masahiro Motoki" target="Kazuko Yoshiyuki" />
+    <edge source="Ryôko Hirosue" target="Tsutomu Yamazaki" />
+    <edge source="Ryôko Hirosue" target="Kazuko Yoshiyuki" />
+    <edge source="Tsutomu Yamazaki" target="Kazuko Yoshiyuki" />
+    <edge source="Tim Roth" target="Pruitt Taylor Vince" />
+    <edge source="Tim Roth" target="Mélanie Thierry" />
+    <edge source="Tim Roth" target="Bill Nunn" />
+    <edge source="Pruitt Taylor Vince" target="Mélanie Thierry" />
+    <edge source="Pruitt Taylor Vince" target="Bill Nunn" />
+    <edge source="Mélanie Thierry" target="Bill Nunn" />
+    <edge source="Leslie Cheung" target="Fengyi Zhang" />
+    <edge source="Leslie Cheung" target="Gong Li" />
+    <edge source="Leslie Cheung" target="You Ge" />
+    <edge source="Fengyi Zhang" target="Gong Li" />
+    <edge source="Fengyi Zhang" target="You Ge" />
+    <edge source="Gong Li" target="You Ge" />
+    <edge source="Bob Geldof" target="Christine Hargreaves" />
+    <edge source="Bob Geldof" target="James Laurenson" />
+    <edge source="Bob Geldof" target="Eleanor David" />
+    <edge source="Christine Hargreaves" target="James Laurenson" />
+    <edge source="Christine Hargreaves" target="Eleanor David" />
+    <edge source="James Laurenson" target="Eleanor David" />
+    <edge source="Emeric Pressburger" target="Anton Walbrook" />
+    <edge source="Emeric Pressburger" target="Marius Goring" />
+    <edge source="Emeric Pressburger" target="Moira Shearer" />
+    <edge source="Anton Walbrook" target="Marius Goring" />
+    <edge source="Anton Walbrook" target="Moira Shearer" />
+    <edge source="Marius Goring" target="Moira Shearer" />
+    <edge source="Ryan Gosling" target="Emma Stone" />
+    <edge source="Ryan Gosling" target="Rosemarie DeWitt" />
+    <edge source="Emma Stone" target="Rosemarie DeWitt" />
+    <edge source="Vijay Varma" target="Nakul Roshan Sahdev" />
+    <edge source="Vijay Varma" target="Ranveer Singh" />
+    <edge source="Vijay Varma" target="Vijay Raaz" />
+    <edge source="Nakul Roshan Sahdev" target="Ranveer Singh" />
+    <edge source="Nakul Roshan Sahdev" target="Vijay Raaz" />
+    <edge source="Ranveer Singh" target="Vijay Raaz" />
+    <edge source="Rami Malek" target="Lucy Boynton" />
+    <edge source="Rami Malek" target="Gwilym Lee" />
+    <edge source="Rami Malek" target="Ben Hardy" />
+    <edge source="Lucy Boynton" target="Gwilym Lee" />
+    <edge source="Lucy Boynton" target="Ben Hardy" />
+    <edge source="Gwilym Lee" target="Ben Hardy" />
+    <edge source="Ferdia Walsh-Peelo" target="Aidan Gillen" />
+    <edge source="Ferdia Walsh-Peelo" target="Maria Doyle Kennedy" />
+    <edge source="Ferdia Walsh-Peelo" target="Jack Reynor" />
+    <edge source="Aidan Gillen" target="Maria Doyle Kennedy" />
+    <edge source="Aidan Gillen" target="Jack Reynor" />
+    <edge source="Maria Doyle Kennedy" target="Jack Reynor" />
+    <edge source="Gérard Jugnot" target="François Berléand" />
+    <edge source="Gérard Jugnot" target="Jean-Baptiste Maunier" />
+    <edge source="Gérard Jugnot" target="Kad Merad" />
+    <edge source="François Berléand" target="Jean-Baptiste Maunier" />
+    <edge source="François Berléand" target="Kad Merad" />
+    <edge source="Jean-Baptiste Maunier" target="Kad Merad" />
+    <edge source="Juliette Binoche" target="Zbigniew Zamachowski" />
+    <edge source="Juliette Binoche" target="Julie Delpy" />
+    <edge source="Juliette Binoche" target="Benoît Régent" />
+    <edge source="Zbigniew Zamachowski" target="Julie Delpy" />
+    <edge source="Zbigniew Zamachowski" target="Benoît Régent" />
+    <edge source="Julie Delpy" target="Benoît Régent" />
+    <edge source="Rob Reiner" target="Michael McKean" />
+    <edge source="Rob Reiner" target="Christopher Guest" />
+    <edge source="Rob Reiner" target="Kimberly Stringer" />
+    <edge source="Michael McKean" target="Christopher Guest" />
+    <edge source="Michael McKean" target="Kimberly Stringer" />
+    <edge source="Christopher Guest" target="Kimberly Stringer" />
+    <edge source="Roy Scheider" target="Jessica Lange" />
+    <edge source="Roy Scheider" target="Ann Reinking" />
+    <edge source="Roy Scheider" target="Leland Palmer" />
+    <edge source="Jessica Lange" target="Ann Reinking" />
+    <edge source="Jessica Lange" target="Leland Palmer" />
+    <edge source="Ann Reinking" target="Leland Palmer" />
+    <edge source="Edmund Goulding" target="Groucho Marx" />
+    <edge source="Edmund Goulding" target="Chico Marx" />
+    <edge source="Edmund Goulding" target="Harpo Marx" />
+    <edge source="Groucho Marx" target="Chico Marx" />
+    <edge source="Groucho Marx" target="Harpo Marx" />
+    <edge source="Chico Marx" target="Harpo Marx" />
+    <edge source="Riz Ahmed" target="Olivia Cooke" />
+    <edge source="Riz Ahmed" target="Paul Raci" />
+    <edge source="Riz Ahmed" target="Lauren Ridloff" />
+    <edge source="Olivia Cooke" target="Paul Raci" />
+    <edge source="Olivia Cooke" target="Lauren Ridloff" />
+    <edge source="Paul Raci" target="Lauren Ridloff" />
+    <edge source="Glen Hansard" target="Markéta Irglová" />
+    <edge source="Glen Hansard" target="Hugh Walsh" />
+    <edge source="Glen Hansard" target="Gerard Hendrick" />
+    <edge source="Markéta Irglová" target="Hugh Walsh" />
+    <edge source="Markéta Irglová" target="Gerard Hendrick" />
+    <edge source="Hugh Walsh" target="Gerard Hendrick" />
+    <edge source="Joaquin Phoenix" target="Reese Witherspoon" />
+    <edge source="Joaquin Phoenix" target="Ginnifer Goodwin" />
+    <edge source="Joaquin Phoenix" target="Robert Patrick" />
+    <edge source="Reese Witherspoon" target="Ginnifer Goodwin" />
+    <edge source="Reese Witherspoon" target="Robert Patrick" />
+    <edge source="Ginnifer Goodwin" target="Robert Patrick" />
+    <edge source="Irène Jacob" target="Wladyslaw Kowalski" />
+    <edge source="Irène Jacob" target="Halina Gryglaszewska" />
+    <edge source="Irène Jacob" target="Kalina Jedrusik" />
+    <edge source="Wladyslaw Kowalski" target="Halina Gryglaszewska" />
+    <edge source="Wladyslaw Kowalski" target="Kalina Jedrusik" />
+    <edge source="Halina Gryglaszewska" target="Kalina Jedrusik" />
+    <edge source="Liza Minnelli" target="Michael York" />
+    <edge source="Liza Minnelli" target="Helmut Griem" />
+    <edge source="Liza Minnelli" target="Joel Grey" />
+    <edge source="Michael York" target="Helmut Griem" />
+    <edge source="Michael York" target="Joel Grey" />
+    <edge source="Helmut Griem" target="Joel Grey" />
+    <edge source="Veerle Baetens" target="Johan Heldenbergh" />
+    <edge source="Veerle Baetens" target="Nell Cattrysse" />
+    <edge source="Veerle Baetens" target="Geert Van Rampelberg" />
+    <edge source="Johan Heldenbergh" target="Nell Cattrysse" />
+    <edge source="Johan Heldenbergh" target="Geert Van Rampelberg" />
+    <edge source="Nell Cattrysse" target="Geert Van Rampelberg" />
+    <edge source="Ranbir Kapoor" target="Nargis Fakhri" />
+    <edge source="Ranbir Kapoor" target="Shammi Kapoor" />
+    <edge source="Ranbir Kapoor" target="Kumud Mishra" />
+    <edge source="Nargis Fakhri" target="Shammi Kapoor" />
+    <edge source="Nargis Fakhri" target="Kumud Mishra" />
+    <edge source="Shammi Kapoor" target="Kumud Mishra" />
+    <edge source="Diane Kruger" target="Benno Fürmann" />
+    <edge source="Diane Kruger" target="Guillaume Canet" />
+    <edge source="Diane Kruger" target="Natalie Dessay" />
+    <edge source="Benno Fürmann" target="Guillaume Canet" />
+    <edge source="Benno Fürmann" target="Natalie Dessay" />
+    <edge source="Guillaume Canet" target="Natalie Dessay" />
+    <edge source="Sam Riley" target="Samantha Morton" />
+    <edge source="Sam Riley" target="Craig Parkinson" />
+    <edge source="Sam Riley" target="Alexandra Maria Lara" />
+    <edge source="Samantha Morton" target="Craig Parkinson" />
+    <edge source="Samantha Morton" target="Alexandra Maria Lara" />
+    <edge source="Craig Parkinson" target="Alexandra Maria Lara" />
+    <edge source="Jamie Foxx" target="Regina King" />
+    <edge source="Jamie Foxx" target="Kerry Washington" />
+    <edge source="Jamie Foxx" target="Clifton Powell" />
+    <edge source="Regina King" target="Kerry Washington" />
+    <edge source="Regina King" target="Clifton Powell" />
+    <edge source="Kerry Washington" target="Clifton Powell" />
+    <edge source="Jamie Bell" target="Julie Walters" />
+    <edge source="Jamie Bell" target="Jean Heywood" />
+    <edge source="Jamie Bell" target="Jamie Draven" />
+    <edge source="Julie Walters" target="Jean Heywood" />
+    <edge source="Julie Walters" target="Jamie Draven" />
+    <edge source="Jean Heywood" target="Jamie Draven" />
+    <edge source="John Cameron Mitchell" target="Miriam Shor" />
+    <edge source="John Cameron Mitchell" target="Stephen Trask" />
+    <edge source="John Cameron Mitchell" target="Theodore Liscinski" />
+    <edge source="Miriam Shor" target="Stephen Trask" />
+    <edge source="Miriam Shor" target="Theodore Liscinski" />
+    <edge source="Stephen Trask" target="Theodore Liscinski" />
+    <edge source="Geoffrey Rush" target="Armin Mueller-Stahl" />
+    <edge source="Geoffrey Rush" target="Justin Braine" />
+    <edge source="Geoffrey Rush" target="Sonia Todd" />
+    <edge source="Armin Mueller-Stahl" target="Justin Braine" />
+    <edge source="Armin Mueller-Stahl" target="Sonia Todd" />
+    <edge source="Justin Braine" target="Sonia Todd" />
+    <edge source="Lady Gaga" target="Bradley Cooper" />
+    <edge source="Lady Gaga" target="Sam Elliott" />
+    <edge source="Lady Gaga" target="Greg Grunberg" />
+    <edge source="Bradley Cooper" target="Sam Elliott" />
+    <edge source="Bradley Cooper" target="Greg Grunberg" />
+    <edge source="Sam Elliott" target="Greg Grunberg" />
+    <edge source="Marion Cotillard" target="Sylvie Testud" />
+    <edge source="Marion Cotillard" target="Pascal Greggory" />
+    <edge source="Marion Cotillard" target="Emmanuelle Seigner" />
+    <edge source="Sylvie Testud" target="Pascal Greggory" />
+    <edge source="Sylvie Testud" target="Emmanuelle Seigner" />
+    <edge source="Pascal Greggory" target="Emmanuelle Seigner" />
+    <edge source="John Lennon" target="Paul McCartney" />
+    <edge source="John Lennon" target="George Harrison" />
+    <edge source="John Lennon" target="Ringo Starr" />
+    <edge source="Paul McCartney" target="George Harrison" />
+    <edge source="Paul McCartney" target="Ringo Starr" />
+    <edge source="George Harrison" target="Ringo Starr" />
+  </graph>
+</graphml>

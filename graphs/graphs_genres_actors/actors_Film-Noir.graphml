@@ -1,0 +1,320 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="William Holden">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Gloria Swanson">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Erich von Stroheim">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Nancy Olson">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Fred MacMurray">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Barbara Stanwyck">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Edward G. Robinson">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Byron Barr">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Kirk Douglas">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jan Sterling">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Robert Arthur">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Porter Hall">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Orson Welles">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Joseph Cotten">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Alida Valli">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Trevor Howard">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Charlton Heston">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Janet Leigh">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Joseph Calleia">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Burt Lancaster">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Tony Curtis">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Susan Harrison">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Martin Milner">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Sterling Hayden">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Coleen Gray">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Vince Edwards">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jay C. Flippen">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Robert Mitchum">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Shelley Winters">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Lillian Gish">
+      <data key="d0">actor</data>
+    </node>
+    <node id="James Gleason">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Humphrey Bogart">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Gloria Grahame">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Frank Lovejoy">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Carl Benton Reid">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jane Greer">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Rhonda Fleming">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Gene Tierney">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Dana Andrews">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Clifton Webb">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Vincent Price">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Mary Astor">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Gladys George">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Peter Lorre">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Farley Granger">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Robert Walker">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ruth Roman">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Leo G. Carroll">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Cary Grant">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ingrid Bergman">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Claude Rains">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Louis Calhern">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Lauren Bacall">
+      <data key="d0">actor</data>
+    </node>
+    <node id="John Ridgely">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Martha Vickers">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Ray Milland">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Jane Wyman">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Phillip Terry">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Howard Da Silva">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Walter Brennan">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Dolores Moran">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Teresa Wright">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Macdonald Carey">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Henry Travers">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Rita Hayworth">
+      <data key="d0">actor</data>
+    </node>
+    <node id="Glenn Ford">
+      <data key="d0">actor</data>
+    </node>
+    <node id="George Macready">
+      <data key="d0">actor</data>
+    </node>
+    <edge source="William Holden" target="Gloria Swanson" />
+    <edge source="William Holden" target="Erich von Stroheim" />
+    <edge source="William Holden" target="Nancy Olson" />
+    <edge source="Gloria Swanson" target="Erich von Stroheim" />
+    <edge source="Gloria Swanson" target="Nancy Olson" />
+    <edge source="Erich von Stroheim" target="Nancy Olson" />
+    <edge source="Fred MacMurray" target="Barbara Stanwyck" />
+    <edge source="Fred MacMurray" target="Edward G. Robinson" />
+    <edge source="Fred MacMurray" target="Byron Barr" />
+    <edge source="Barbara Stanwyck" target="Edward G. Robinson" />
+    <edge source="Barbara Stanwyck" target="Byron Barr" />
+    <edge source="Edward G. Robinson" target="Byron Barr" />
+    <edge source="Kirk Douglas" target="Jan Sterling" />
+    <edge source="Kirk Douglas" target="Robert Arthur" />
+    <edge source="Kirk Douglas" target="Porter Hall" />
+    <edge source="Kirk Douglas" target="Robert Mitchum" />
+    <edge source="Kirk Douglas" target="Jane Greer" />
+    <edge source="Kirk Douglas" target="Rhonda Fleming" />
+    <edge source="Jan Sterling" target="Robert Arthur" />
+    <edge source="Jan Sterling" target="Porter Hall" />
+    <edge source="Robert Arthur" target="Porter Hall" />
+    <edge source="Orson Welles" target="Joseph Cotten" />
+    <edge source="Orson Welles" target="Alida Valli" />
+    <edge source="Orson Welles" target="Trevor Howard" />
+    <edge source="Orson Welles" target="Charlton Heston" />
+    <edge source="Orson Welles" target="Janet Leigh" />
+    <edge source="Orson Welles" target="Joseph Calleia" />
+    <edge source="Joseph Cotten" target="Alida Valli" />
+    <edge source="Joseph Cotten" target="Trevor Howard" />
+    <edge source="Joseph Cotten" target="Teresa Wright" />
+    <edge source="Joseph Cotten" target="Macdonald Carey" />
+    <edge source="Joseph Cotten" target="Henry Travers" />
+    <edge source="Alida Valli" target="Trevor Howard" />
+    <edge source="Charlton Heston" target="Janet Leigh" />
+    <edge source="Charlton Heston" target="Joseph Calleia" />
+    <edge source="Janet Leigh" target="Joseph Calleia" />
+    <edge source="Joseph Calleia" target="Rita Hayworth" />
+    <edge source="Joseph Calleia" target="Glenn Ford" />
+    <edge source="Joseph Calleia" target="George Macready" />
+    <edge source="Burt Lancaster" target="Tony Curtis" />
+    <edge source="Burt Lancaster" target="Susan Harrison" />
+    <edge source="Burt Lancaster" target="Martin Milner" />
+    <edge source="Tony Curtis" target="Susan Harrison" />
+    <edge source="Tony Curtis" target="Martin Milner" />
+    <edge source="Susan Harrison" target="Martin Milner" />
+    <edge source="Sterling Hayden" target="Coleen Gray" />
+    <edge source="Sterling Hayden" target="Vince Edwards" />
+    <edge source="Sterling Hayden" target="Jay C. Flippen" />
+    <edge source="Coleen Gray" target="Vince Edwards" />
+    <edge source="Coleen Gray" target="Jay C. Flippen" />
+    <edge source="Vince Edwards" target="Jay C. Flippen" />
+    <edge source="Robert Mitchum" target="Shelley Winters" />
+    <edge source="Robert Mitchum" target="Lillian Gish" />
+    <edge source="Robert Mitchum" target="James Gleason" />
+    <edge source="Robert Mitchum" target="Jane Greer" />
+    <edge source="Robert Mitchum" target="Rhonda Fleming" />
+    <edge source="Shelley Winters" target="Lillian Gish" />
+    <edge source="Shelley Winters" target="James Gleason" />
+    <edge source="Lillian Gish" target="James Gleason" />
+    <edge source="Humphrey Bogart" target="Gloria Grahame" />
+    <edge source="Humphrey Bogart" target="Frank Lovejoy" />
+    <edge source="Humphrey Bogart" target="Carl Benton Reid" />
+    <edge source="Humphrey Bogart" target="Mary Astor" />
+    <edge source="Humphrey Bogart" target="Gladys George" />
+    <edge source="Humphrey Bogart" target="Peter Lorre" />
+    <edge source="Humphrey Bogart" target="Lauren Bacall" />
+    <edge source="Humphrey Bogart" target="John Ridgely" />
+    <edge source="Humphrey Bogart" target="Martha Vickers" />
+    <edge source="Humphrey Bogart" target="Walter Brennan" />
+    <edge source="Humphrey Bogart" target="Dolores Moran" />
+    <edge source="Gloria Grahame" target="Frank Lovejoy" />
+    <edge source="Gloria Grahame" target="Carl Benton Reid" />
+    <edge source="Frank Lovejoy" target="Carl Benton Reid" />
+    <edge source="Jane Greer" target="Rhonda Fleming" />
+    <edge source="Gene Tierney" target="Dana Andrews" />
+    <edge source="Gene Tierney" target="Clifton Webb" />
+    <edge source="Gene Tierney" target="Vincent Price" />
+    <edge source="Dana Andrews" target="Clifton Webb" />
+    <edge source="Dana Andrews" target="Vincent Price" />
+    <edge source="Clifton Webb" target="Vincent Price" />
+    <edge source="Mary Astor" target="Gladys George" />
+    <edge source="Mary Astor" target="Peter Lorre" />
+    <edge source="Gladys George" target="Peter Lorre" />
+    <edge source="Farley Granger" target="Robert Walker" />
+    <edge source="Farley Granger" target="Ruth Roman" />
+    <edge source="Farley Granger" target="Leo G. Carroll" />
+    <edge source="Robert Walker" target="Ruth Roman" />
+    <edge source="Robert Walker" target="Leo G. Carroll" />
+    <edge source="Ruth Roman" target="Leo G. Carroll" />
+    <edge source="Cary Grant" target="Ingrid Bergman" />
+    <edge source="Cary Grant" target="Claude Rains" />
+    <edge source="Cary Grant" target="Louis Calhern" />
+    <edge source="Ingrid Bergman" target="Claude Rains" />
+    <edge source="Ingrid Bergman" target="Louis Calhern" />
+    <edge source="Claude Rains" target="Louis Calhern" />
+    <edge source="Lauren Bacall" target="John Ridgely" />
+    <edge source="Lauren Bacall" target="Martha Vickers" />
+    <edge source="Lauren Bacall" target="Walter Brennan" />
+    <edge source="Lauren Bacall" target="Dolores Moran" />
+    <edge source="John Ridgely" target="Martha Vickers" />
+    <edge source="Ray Milland" target="Jane Wyman" />
+    <edge source="Ray Milland" target="Phillip Terry" />
+    <edge source="Ray Milland" target="Howard Da Silva" />
+    <edge source="Jane Wyman" target="Phillip Terry" />
+    <edge source="Jane Wyman" target="Howard Da Silva" />
+    <edge source="Phillip Terry" target="Howard Da Silva" />
+    <edge source="Walter Brennan" target="Dolores Moran" />
+    <edge source="Teresa Wright" target="Macdonald Carey" />
+    <edge source="Teresa Wright" target="Henry Travers" />
+    <edge source="Macdonald Carey" target="Henry Travers" />
+    <edge source="Rita Hayworth" target="Glenn Ford" />
+    <edge source="Rita Hayworth" target="George Macready" />
+    <edge source="Glenn Ford" target="George Macready" />
+  </graph>
+</graphml>
