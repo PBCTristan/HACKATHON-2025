@@ -12,16 +12,17 @@ HACKATHON-2025
 │   │   └── filtered_ratings.csv  
 │   └── raw_data  
 │       ├── .gitignore  
-│       ├── imdb_small.csv                  # Ignored, top 1000 IMDb dataset: [Link](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)  
-│       └── (.*).tsv                        # Ignored, original IMDb dataset: [Link](https://datasets.imdbws.com/)  
+│       ├── imdb_small.csv                      # Ignored, top 1000 IMDb dataset: [Link](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)  
+│       └── (.*).tsv                            # Ignored, original IMDb dataset: [Link](https://datasets.imdbws.com/)  
 ├── graphs  
 │   └── graphs_genres_actors  
 │       └── actors_(.*).graphml  
 ├── notebooks  
-│   ├── ActorsDirectorsOccurences.ipynb     # Uses the smaller dataset to do Link Predictions
-│   ├── CorrelationsAndDescriptors.ipynb    # Uses the full dataset to evaluates graph descriptors
-│   ├── GraphClassification.ipynb           # Graph Classification on the full dataset
-│   └── DatasetReduction.ipynb              # Needs to be executed first, creates filtered_data file
+│   ├── ActorsDirectorsOccurences.ipynb         # Uses the smaller dataset to do Link Predictions
+│   ├── ClassificationCooccurenceParLot.ipynb   # Graphs representing slices of the dataset by genre and year
+│   ├── CorrelationsAndDescriptors.ipynb        # Uses the full dataset to evaluates graph descriptors
+│   ├── GraphClassification.ipynb               # Graph Classification on the full dataset
+│   └── DatasetReduction.ipynb                  # Needs to be executed first, creates filtered_data file
 ├── .gitignore  
 └── README.md
 ```
