@@ -2,7 +2,7 @@
 
 HACKATHON-2025  
 ├── datasets  
-|   ├── .gitignore  
+│   ├── .gitignore  
 │   ├── filtered_data  
 │   │   ├── actors_actresses.csv  
 │   │   ├── filtered_crew.csv  
