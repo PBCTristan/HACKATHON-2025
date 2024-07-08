@@ -2,23 +2,23 @@
 
 HACKATHON-2025  
 ├── datasets  
-│   ├── heads_500 # Ignored  
-│   │   ├── name.basics_small.tsv  
-│   │   ├── title.akas_small.tsv  
-│   │   ├── title.basics_small.tsv  
-│   │   ├── title.crew_small.tsv  
-│   │   ├── title.episode_small.tsv  
-│   │   ├── title.principals_small.tsv  
-│   │   └── title.ratings_small.tsv  
-│   ├── name.basics.tsv  
-│   ├── title.akas.tsv  
-│   ├── title.basics.tsv  
-│   ├── title.crew.tsv  
-│   ├── title.episode.tsv  
-│   ├── title.principals.tsv  
-│   └── title.ratings.tsv  
+|   ├── .gitignore  
+│   ├── filtered_data  
+│   │   ├── actors_actresses.csv  
+│   │   ├── filtered_crew.csv  
+│   │   ├── filtered_movies.csv  
+│   │   ├── filtered_name_basics.csv  
+│   │   ├── filtered_principals.csv  
+│   │   └── filtered_ratings.csv  
+│   └── raw_data  
+│       ├── imdb_small.csv.csv          # Ignored, top 1000 IMDb dataset: [Link](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
+│       └── (.*).csv                    # Ignored, original IMDb dataset: [Link](https://datasets.imdbws.com/)
 ├── graphs  
-│   └── genre_cooccurrence_graph.graphml  
-├── notebooks  
-│   └── GenreCooccurrenceGraph.ipynb  
+│   └── graphs_genres_actors  
+|       └── actors_(.*).graphml
+├── notebooks
+│   ├── ActorsDirectorsOccurences.ipynb
+│   ├── debutdutruc.ipynb
+│   └── reduction-dataset.ipynb
+├── .gitignore 
 └── README.md  
