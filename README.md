@@ -15,7 +15,7 @@ HACKATHON-2025
 │       └── (.*).csv                    # Ignored, original IMDb dataset: [Link](https://datasets.imdbws.com/)
 ├── graphs  
 │   └── graphs_genres_actors  
-|       └── actors_(.*).graphml
+│       └── actors_(.*).graphml
 ├── notebooks
 │   ├── ActorsDirectorsOccurences.ipynb
 │   ├── debutdutruc.ipynb
